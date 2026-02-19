@@ -1,0 +1,7 @@
+{
+  "name": "random-user-generator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
